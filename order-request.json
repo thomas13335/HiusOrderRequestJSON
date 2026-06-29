@@ -1,0 +1,125 @@
+{
+  "OrderDate": "0001-01-01T00:00:00",
+  "OrderID": "TEST-ORDER-4027-04-06",
+  "InstallationDate": "2023-03-01T00:00:00",
+  "Object": {
+    "EGID": "122643",
+    "ID": "AAAA.BBB.CCC.4027-04-06",
+    "Floor": "5",
+    "Position": "links",
+    "ExternalObjectNumber": "TEST-987654",
+    "StreetAddress": "Zehntalerstrasse 22",
+    "PostalCode": "9999",
+    "Locality": "Traumstadt",
+    "Country": null
+  },
+  "Tenant": {
+    "FirstName": "Peter",
+    "LastName": "Müller",
+    "CompanyName": null,
+    "PhoneNumber": null,
+    "Email": "pm@worldwide.net",
+    "Language": null,
+    "Remarks": [
+      "Mieter wünscht Spezialanfertigung in Grün."
+    ],
+    "StreetAddress": null,
+    "PostalCode": null,
+    "Locality": null,
+    "Country": null
+  },
+  "InvoiceTo": {
+    "FirstName": null,
+    "LastName": null,
+    "CompanyName": "XYZ Management",
+    "PhoneNumber": "+41999999999",
+    "Email": "info@xyz.local",
+    "Language": null,
+    "Remarks": [
+      "Anmerkung VW"
+    ],
+    "StreetAddress": null,
+    "PostalCode": "9999",
+    "Locality": "Traumstadt",
+    "Country": null
+  },
+  "DeliverTo": {
+    "FirstName": null,
+    "LastName": null,
+    "CompanyName": "UVW Property Management",
+    "PhoneNumber": "+41999999999",
+    "Email": "info@uvw.local",
+    "Language": null,
+    "Remarks": [
+      "Anmerkung HW"
+    ],
+    "StreetAddress": "Eine Strasse 1",
+    "PostalCode": "9999",
+    "Locality": "Traumstadt",
+    "Country": null
+  },
+  "Janitor": {
+    "FirstName": null,
+    "LastName": null,
+    "CompanyName": "UVW Property Management",
+    "PhoneNumber": "+41999999999",
+    "Email": "info@uvw.local",
+    "Language": null,
+    "Remarks": [
+      "Anmerkung HW"
+    ],
+    "StreetAddress": "Eine Strasse 1",
+    "PostalCode": "9999",
+    "Locality": "Traumstadt",
+    "Country": null
+  },
+  "PropertyManager": {
+    "Name": "Larissa Russeff",
+    "OrderCaseNumber": "ref:_00C2YZKY6._5001v1pL6Sd:ref",
+    "FirstName": null,
+    "LastName": null,
+    "CompanyName": null,
+    "PhoneNumber": null,
+    "Email": "info@uvw.local",
+    "Language": null,
+    "Remarks": null,
+    "StreetAddress": null,
+    "PostalCode": null,
+    "Locality": null,
+    "Country": null
+  },
+  "PropertyOwner": {
+    "FirstName": null,
+    "LastName": null,
+    "CompanyName": "P&Q Real Estate",
+    "PhoneNumber": null,
+    "Email": null,
+    "Language": null,
+    "Remarks": null,
+    "StreetAddress": "Vipernstrasse 91",
+    "PostalCode": "9999",
+    "Locality": "Traumstadt",
+    "Country": null
+  },
+  "Panels": [
+    {
+      "Kind": "BK",
+      "Beschriftung": [
+        "P. Müller",
+        "PMM GmbH"
+      ]
+    },
+    {
+      "Kind": "SU",
+      "Beschriftung": [
+        "P. Müller"
+      ]
+    },
+    {
+      "Kind": "SO",
+      "Beschriftung": [
+        "Peter"
+      ]
+    }
+  ]
+}
